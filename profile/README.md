@@ -4,4 +4,4 @@
 
 <br/>
 
-*coming soon, stay tuned [symbiotic.fi](https://symbiotic.fi)*
+[Symbiotic](https://symbiotic.fi) is a generalized shared security system enabling decentralized networks to bootstrap powerful, fully sovereign ecosystems.
