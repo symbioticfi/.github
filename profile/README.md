@@ -13,6 +13,7 @@
  - Burners: https://github.com/symbioticfi/burners
  - Hooks: https://github.com/symbioticfi/hooks
  - CLI: https://github.com/symbioticfi/cli
+ - Middleware SDK: https://github.com/symbioticfi/middleware-sdk
 
 ## Links
  - Documentation: https://docs.symbiotic.fi/
