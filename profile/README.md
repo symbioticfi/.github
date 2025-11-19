@@ -9,12 +9,9 @@
 
 ## Key repositories
  - Core: https://github.com/symbioticfi/core
- - Rewards: https://github.com/symbioticfi/rewards
- - Burners: https://github.com/symbioticfi/burners
- - Hooks: https://github.com/symbioticfi/hooks
- - CLI: https://github.com/symbioticfi/cli
  - Relay: https://github.com/symbioticfi/relay
  - Relay Contracts: https://github.com/symbioticfi/relay-contracts
+ - Awesome Relay: https://github.com/symbioticfi/awesome-relay
 
 ## Links
  - Documentation: https://docs.symbiotic.fi/
