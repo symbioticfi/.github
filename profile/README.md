@@ -4,7 +4,7 @@
 
 <br/>
 
-[Symbiotic](https://symbiotic.fi) Symbiotic powers collateral markets, where capital is committed to financial obligations and enforced by code. Capital remains productive while committed, removing the tradeoff between being locked and earning. It backs products across credit, insurance, stablecoins, and RWA. Symbiotic powers 80+ vaults, 74,000+ active stakers, and 111 operators, with Chainlink, Nexus Mutual, and Cap Labs live in production. Backed by Paradigm, Pantera, Cyberfund and Coinbase Ventures. [symbiotic.fi](https://symbiotic.fi)
+[Symbiotic](https://symbiotic.fi) powers collateral markets, where capital is committed to financial obligations and enforced by code. Capital remains productive while committed, removing the tradeoff between being locked and earning. It backs products across credit, insurance, stablecoins, and RWA. Symbiotic powers 80+ vaults, 74,000+ active stakers, and 111 operators, with Chainlink, Nexus Mutual, and Cap Labs live in production. Backed by Paradigm, Pantera, Cyberfund and Coinbase Ventures. [symbiotic.fi](https://symbiotic.fi)
 
 
 ## Key repositories
